@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 }
 
 .App-logo {
@@ -23,7 +22,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.das {
+  width: 20px;
+  height: 20px;
+}
+.label {
+  display: flex;
+  align-items: center;
+}
 .App-link {
   color: #61dafb;
 }
